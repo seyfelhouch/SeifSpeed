@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="customColor" format="color" />
+        <attr name="customTextIndent" format="dimension" />
+        <attr name="customFont" format="string" />
+    </declare-styleable>
+</resources>
